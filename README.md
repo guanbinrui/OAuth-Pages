@@ -1,6 +1,6 @@
-OAuth Templates
-====
+# OAuth Templates
 
-| Page | URL |
-| ---- | --- |
+| Page      | URL                                                     |
+| --------- | ------------------------------------------------------- |
+| Login     | https://guanbinrui.github.io/OAuth-Pages/Login.html     |
 | Dashbaord | https://guanbinrui.github.io/OAuth-Pages/Dashboard.html |
